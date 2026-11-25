@@ -1,0 +1,87 @@
+ body{ margin:0;
+        font-family: "Helvetica Neue", sans-serif;
+        color: #666;
+        font-size: 13px;}
+
+        div
+            {background: white; height: 200px; margin: auto;}
+        .header
+        {background-color: #fff; 
+        height:40px;}
+        .intro
+        {background-color: #6c3; 
+        background-image:url(img/img-hero-full-list.png);
+        background-repeat: no-repeat;
+        background-position:400px,0;
+        height: 550px;}
+        .all-in-one
+        {background-color: #fff; 
+        background-image: url(img/allinone.jpg);
+        background-repeat: no-repeat;
+        background-position:400px,0;
+        height: 641px;}
+        .useful
+        {background-color: #333; 
+        background-image: url(img/curator-short.png);
+        background-repeat: no-repeat;
+        background-position:400px,0;
+        height: 500px;
+        color: #ccc;}
+        .fast
+        {background-color: #eeecee;
+        background-image: url(img/img-hero-full-list.png);
+        background-repeat: no-repeat;
+        background-position:400px,0;
+        height: 550px;}
+        .share
+        {background-color: #6c3; 
+        background-image: url(img/mobile-share.png);
+        background-repeat: no-repeat;
+        background-position:400px,0;
+        height: 550px;}
+        .anywhere
+        {background-color: #eeecee;
+        background-image: url(img/anywhere.png);
+        background-repeat: no-repeat;
+        background-position:400px,0; 
+        height: 643px;}
+        .footer     
+        {background-color: #333; 
+        height: 200px;
+        text-align: center;
+        padding: 20px;}
+
+        h1 {width: 350px; 
+            margin: 0;
+            padding: 25px; 
+            text-align: center;
+            line-height: 22px;}
+        p {width: 350px; 
+            margin: 0;
+            padding: 5px 25px;}
+        a{font-size: 13px;
+        margin:20px ;}
+        li
+        {display: inline-block; padding:7px;
+        border-radius: 6px;
+        background-color: #6c3;
+        color: #fff;
+        height: 30px;}
+        ul
+        {display: inline;
+        overflow: hidden;}
+        .torna
+            { background: green;
+            width: 100px;
+            height: 100px;
+            position: fixed;
+            bottom: 50px;
+            right: 50px;
+            border-radius: 50%;
+            box-shadow: 5px 5px 5px#333;
+            text-align: center;
+            padding: 0;
+            line-height: 100px;
+            color: white;
+            font-size: 72px;
+        }
